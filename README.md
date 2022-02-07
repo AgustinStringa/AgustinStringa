@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgustinStringa
-- 👀 I’m interested in: Web Design, Design and Technology
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, Ps and Illustrator
+- 👀 I’m interested in: Web Design, Programming and Technology
+- 🌱 I’m currently learning: ReactJS, NodeJS and Engineering
 - 💞️ I’m looking to collaborate: on any project, everything is useful
 - 📫 How to reach me: stringagustin1@gmail.com / agustinstringa24@hotmail.com / 
 
